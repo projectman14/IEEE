@@ -49,12 +49,12 @@ const About = () => {
             <p className="text-[#e0e0e4] font-normal text-base font-['Old Standard TT', serif]">We are a combined association of faculty members along with the enthusiastic students of our college, The LNMIIT Jaipur. We strive for creating technology for the people and people for technology.</p>
           </div>
           <div className="flex flex-col mr-[6rem]">
-            <p className="text-white font-semibold mb-8 text-lg">Who we are?</p>
-            <p className="text-[#e0e0e4] font-normal text-base font-['Old Standard TT', serif]">We are a combined association of faculty members along with the enthusiastic students of our college, The LNMIIT Jaipur. We strive for creating technology for the people and people for technology.</p>
+            <p className="text-white font-semibold mb-8 text-lg">What we do?</p>
+            <p className="text-[#e0e0e4] font-normal text-base font-['Old Standard TT', serif]">We at LNMIIT believe in building technology for people and people for technology. The branch activities offer numerous educational, technical, and professional opportunities through various events.</p>
           </div>
           <div className="flex flex-col mr-[6rem]">
-            <p className="text-white font-semibold mb-8 text-lg">Who we are?</p>
-            <p className="text-[#e0e0e4] font-normal text-base font-['Old Standard TT', serif]">We are a combined association of faculty members along with the enthusiastic students of our college, The LNMIIT Jaipur. We strive for creating technology for the people and people for technology.</p>
+            <p className="text-white font-semibold mb-8 text-lg">What we have done?</p>
+            <p className="text-[#e0e0e4] font-normal text-base font-['Old Standard TT', serif]">Workshops in popular areas, distinguished lectures, student competitions and challenging developers sprints are few regular events which this branch pursues with highest order of energy and expected outcomes.</p>
           </div>
         </div>
       </div>
