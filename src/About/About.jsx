@@ -39,11 +39,11 @@ const About = () => {
 
       {/* More About Us Section */}
       <div className="bg-[#283f8f]">
-        <div className="m-14">
+        <div className="mx-14 mt-14 mb-5">
           <h3 className="text-white font-bold text-[1.25rem] pt-8 pb-4 ">More About us</h3>
           <hr></hr>
         </div>
-        <div className="flex m-14 pb-8">
+        <div className="flex mx-14 mb-14 pb-8">
           <div className="flex flex-col mr-[6rem]">
             <p className="text-white font-semibold mb-8 text-lg">Who we are?</p>
             <p className="text-[#e0e0e4] font-normal text-base font-['Old Standard TT', serif]">We are a combined association of faculty members along with the enthusiastic students of our college, The LNMIIT Jaipur. We strive for creating technology for the people and people for technology.</p>
